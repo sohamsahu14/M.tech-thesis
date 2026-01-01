@@ -1,2 +1,2 @@
 # M.tech-thesis
-This file contains work of my M.Tech  Thesis.
+work of my M.Tech Thesis.
